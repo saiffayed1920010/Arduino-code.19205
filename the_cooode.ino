@@ -35,6 +35,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 
 
+
     
     if(digitalRead(inputPin1)== HIGH)
     {
